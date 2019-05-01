@@ -12,7 +12,6 @@
     {"origin":606060,"destination":101010,"amount":400.00},
     {"origin":101010,"destination":404040,"amount":2000.00}
 ],
-
   "accounts":[
     {"id":101010,"first_name":"Abraham","last_name":"Ableman","routing#": "010101","current_balance":100500.41},
     {"id":202020,"first_name":"Benjamin","last_name":"Boatman","routing#":"020202","current_balance":12345.67},
