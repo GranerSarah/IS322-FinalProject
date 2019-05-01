@@ -11,5 +11,5 @@
     {"origin":404040,"destination":202020,"amount":1000.00},
     {"origin":606060,"destination":101010,"amount":400.00},
     {"origin":101010,"destination":404040,"amount":2000.00}
-],
+]
 }
