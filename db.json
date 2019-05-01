@@ -4,5 +4,13 @@
   {"type":"withdrawal","amount":500.00,"account":606060},
   {"type":"withdrawal","amount":100.00,"account":303030},
   {"type":"deposit","amount":55.75,"account":404040}
+],
+  
+  "transfers":[
+    {"origin":101010,"destination":303030,"amount":2000.00},
+    {"origin":202020,"destination":303030,"amount":200.00},
+    {"origin":404040,"destination":202020,"amount":1000.00},
+    {"origin":606060,"destination":101010,"amount":400.00},
+    {"origin":101010,"destination":404040,"amount":2000.00}
 ]
 }
