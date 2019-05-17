@@ -9,7 +9,12 @@
 {"type":"withdrawal","amount":20.67,"account":202020},
 {"type":"withdrawal","amount":800.00,"account":202020},
 {"type":"withdrawal","amount":100.00,"account":202020},
-{"type":"deposit","amount":888.78,"account":202020}
+{"type":"deposit","amount":888.78,"account":202020},
+    {"type":"deposit","amount":986.17,"account":303030},
+{"type":"withdrawal","amount":10.67,"account":303030},
+{"type":"withdrawal","amount":800.00,"account":303030},
+{"type":"withdrawal","amount":100.00,"account":303030},
+{"type":"deposit","amount":888.78,"account":303030},
 ],
   "transfers":[
     {"origin":101010,"destination":303030,"amount":2000.00},
