@@ -1,9 +1,15 @@
 {
   "transactions":[
   {"type":"deposit","amount":456.23,"account":101010},
-  {"type":"withdrawal","amount":500.00,"account":606060},
-  {"type":"withdrawal","amount":100.00,"account":303030},
-  {"type":"deposit","amount":55.75,"account":404040}
+    {"type":"withdrawal","amount":20.63,"account":101010},
+  {"type":"withdrawal","amount":500.00,"account":101010},
+  {"type":"withdrawal","amount":100.00,"account":101010},
+  {"type":"deposit","amount":555.75,"account":101010},
+    {"type":"deposit","amount":486.27,"account":202020},
+{"type":"withdrawal","amount":20.67,"account":202020},
+{"type":"withdrawal","amount":800.00,"account":202020},
+{"type":"withdrawal","amount":100.00,"account":202020},
+{"type":"deposit","amount":888.78,"account":202020}
 ],
   "transfers":[
     {"origin":101010,"destination":303030,"amount":2000.00},
