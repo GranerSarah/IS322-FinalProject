@@ -31,13 +31,6 @@
   {"id":281, "type":"withdrawal","amount":1333.33,"account":606060},
   {"id":091, "type":"deposit","amount":222.72,"account":606060}
 ],
-  "transfers":[
-    {"origin":101010,"destination":303030,"amount":2000.00},
-    {"origin":202020,"destination":303030,"amount":200.00},
-    {"origin":404040,"destination":202020,"amount":1000.00},
-    {"origin":606060,"destination":101010,"amount":400.00},
-    {"origin":101010,"destination":404040,"amount":2000.00}
-],
   "accounts":[
     {"id":101010,"first_name":"Abraham","last_name":"Ableman","routing#": "010101","current_balance":100500.41},
     {"id":202020,"first_name":"Benjamin","last_name":"Boatman","routing#":"020202","current_balance":12345.67},
